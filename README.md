@@ -78,6 +78,12 @@ The application runs **100% locally in the browser**, requiring no external data
   * General Servicing (10,000 km / 180 days)
   * Other Custom Services
 * Automatic status evaluation: **Overdue**, **Due soon** (within 14 days or 500 km), **Upcoming**, and **Completed**.
+* **Dual View Modes:**
+  * **Grid Cards View:** Compact task cards with quick complete and edit buttons.
+  * **Timeline / Calendar Schedule View:** Chronological sequence showing upcoming and overdue tasks along a visual milestone path.
+* **Printable Service Passport / Health Certificate:**
+  * Generates an official, printer-ready A4 digital service booklet for each car.
+  * Formatted with complete vehicle specs, scheduled tasks, completed maintenance log, and workshop sign-off block for resale valuation.
 * Clear, transparent reasons provided for every reminder (e.g. *"Odometer exceeded target by 500 km"* or *"Due in 8 days"*).
 * One-click "Mark Completed" action that updates vehicle service dates and odometer baselines.
 * In-app Reminder Center accessible from any page via the notification bell.
